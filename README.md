@@ -1,6 +1,8 @@
 # hex clock
 
-Displays the current time in a hex colour equivalent
+Displays the current time in a hex colour equivalent.
+Uses React and Hooks.
 
 Live demo:
-http://hex-clock.flix.industries
+
+https://hex-clock.flix.industries
